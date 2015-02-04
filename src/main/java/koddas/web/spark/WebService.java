@@ -33,6 +33,7 @@ public class WebService {
 			return df.format(dateobj);
 		});
 		
+		// A demonstration of how to do a POST endpoint
 		post("/send", (req, res) -> {
 			return "You sent me\n" + req.body() + "\nfrom " + req.ip() + "\n\n Thank you!";
 		});
