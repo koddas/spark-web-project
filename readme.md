@@ -16,7 +16,7 @@ Navigate to your project location. Then, simply type
 
     mvn package
 
-in your terminal. Your generated JAR fileS can be found as
+in your terminal. Your generated JAR files can be found as
 *./target/SparkWebProject-1.0.0.jar* and
 *./target/SparkWebProject-1.0.0-with-dependencies.jar*.
 
