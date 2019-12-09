@@ -26,7 +26,7 @@ The easiest way of running the code is directly from within your IDE of choice,
 simply by hitting the *Run* button (in Eclipse, that is). If you prefer running
 your code from the command line, navigate to the project location and type
 
-    java -jar target/SparkWebProject-1.0.0-with-dependencies.jar
+    java -jar target/SparkWebProject-1.0.0-jar-with-dependencies.jar
 
 Don't forget to kill the process when done (using the stop button in the
 Eclipse console, or by hitting ctrl-c in the terminal).
